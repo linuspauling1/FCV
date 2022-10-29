@@ -1,0 +1,34 @@
+[
+    [
+        {
+            "operation": "color filter",
+            "parameters": [100,0,100]
+        },
+        {
+            "operation": "rotate",
+            "parameters": [30,50,50]
+        },
+        {
+            "operation": "smooth",
+            "parameters": [10]
+        }
+    ],
+    [
+        {
+            "operation": "smooth",
+            "parameters": [10]
+        },
+        {
+            "operation": "grayscale",
+            "parameters": []
+        },
+        {
+            "operation": "edge detection",
+            "parameters": []
+        },
+        {
+            "operation": "negative",
+            "parameters": []
+        }
+    ]
+]
